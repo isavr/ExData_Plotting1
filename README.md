@@ -1,3 +1,8 @@
+## Notes
+
+* If file household_power_consumption.txt won't be found in the same direcory with a script, then the script will try to download data from <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">server</a>.
+* Scripts use data.table package for reading the file.
+
 ## Introduction
 
 This assignment uses data from
